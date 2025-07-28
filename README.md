@@ -1,11 +1,6 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmJnZ3VydmtmeXQ3MTBodnYzdzZieWNpaWo1b21xdXhiZTMwbWp0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgMwRFVcbF0HCcU/giphy.gif />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmJnZ3VydmtmeXQ3MTBodnYzdzZieWNpaWo1b21xdXhiZTMwbWp0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgMwRFVcbF0HCcU/giphy.gif" width="600"/>
 </h1>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/3c/5f/95/3c5f956e18c72d1c983a41ae4234e943.gif" width="250" align="right" />
-  <img src="https://i.pinimg.com/originals/f3/27/93/f32793b0e4a6b93ea754cc6d4b9cf99e.gif" width="250" align="left" />
-</div>
 
 <br />
 
@@ -42,9 +37,9 @@
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/vitejs/vitejs-icon.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" width="50" />
+  <img src="https://upload.vectorlogo.zone/logos/kali/images/99996646-d340-4b8f-b820-e25525048e9c.svg" width="50" />
 </p>
 
 ---
@@ -76,12 +71,8 @@
 
 ---
 
-### 🎴 Aesthetic Vibe
+### 🎴 Anime
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW82eTAwZmdnNGtwcmkyamg2aGUzMXZoeG8yazhyZTAzbDg1YnNtdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KdLcUvSLKmX7i/giphy.gif" height="60" />
 </p>
