@@ -1,5 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmJnZ3VydmtmeXQ3MTBodnYzdzZieWNpaWo1b21xdXhiZTMwbWp0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgMwRFVcbF0HCcU/giphy.gif" width="250" />
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW82eTAwZmdnNGtwcmkyamg2aGUzMXZoeG8yazhyZTAzbDg1YnNtdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgkDZjbfe06GN8Y/giphy.gif" width="250" />
 </h1>
 
 <br />
@@ -39,7 +40,7 @@
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="50" />
-  <img src="https://upload.vectorlogo.zone/logos/kali/images/09452257-ce76-4881-8cb9-c6a676444ca5.svg" width="60" />
+  <img src="https://upload.vectorlogo.zone/logos/kali/images/99996646-d340-4b8f-b820-e25525048e9c.svg" width="05" />
 </p>
 
 ---
