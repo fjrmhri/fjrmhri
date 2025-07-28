@@ -1,14 +1,14 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
-  <a href="https://linkedin.com/in/fajarmuhairi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;
-  <a href="mailto:fajarmuhairi@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>&nbsp;
-  <a href="http://discord.com/users/fjr#2025" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="40" width="30" /></a>&nbsp;
+  <a href="https://www.instagram.com/fjr.mhri?igsh=MTl1NWI1Mnd2c3ZrYw==" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="30" /></a>&nbsp;
+  <a href="mailto:fajar.muhairi1@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>&nbsp;
+  <a href="http://discord.com/users/aruna8457" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="40" width="30" /></a>&nbsp;
 </p>
 
 <br/>
 
-![](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWdza21ocDcwNTN0cWFpbmU0ZWV1OTF1cHA4ZDVyNjQzbTFhc2ZhbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6v8dobB4gdb8c/giphy.gif)
 
 ---
 
@@ -35,6 +35,9 @@
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/vitejs/vitejs-icon.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" width="50" />
 </p>
 
 ---
@@ -46,12 +49,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjrmhri&layout=compact&text_color=daf7dc&bg_color=151515&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fjrmhri&theme=dark)](https://git.io/streak-stats)
-
----
-
-### ⏳ Year Progress:
-
-⏳ **Year Progress:** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } **57.01%** as on ⏰ 28-Jul-2025
 
 ---
 
@@ -77,5 +74,11 @@
 ### 😂 Here's some humor for you:
 
 <img src="https://readme-jokes.vercel.app/api" alt="Joke Card" />
+
+---
+
+<br/>
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajV2MGVrbnZzd3AwMXEzZTR1bWV4Z2ZsczVqeDVsY2NnbnB0NnhvZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ehgM1JRwNXAtaYDRzi/giphy.gif)
 
 ---
