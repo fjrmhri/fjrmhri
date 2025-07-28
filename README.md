@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmJnZ3VydmtmeXQ3MTBodnYzdzZieWNpaWo1b21xdXhiZTMwbWp0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgMwRFVcbF0HCcU/giphy.gif" width="250" align="right"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW82eTAwZmdnNGtwcmkyamg2aGUzMXZoeG8yazhyZTAzbDg1YnNtdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KdLcUvSLKmX7i/giphy.gif" height="250" align="left"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmJnZ3VydmtmeXQ3MTBodnYzdzZieWNpaWo1b21xdXhiZTMwbWp0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgMwRFVcbF0HCcU/giphy.gif" width="200" align="right"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW82eTAwZmdnNGtwcmkyamg2aGUzMXZoeG8yazhyZTAzbDg1YnNtdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KdLcUvSLKmX7i/giphy.gif" height="200" align="left"/>
 </p>
 
 <br />
@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fjrmhri&show_icons=true&title_color=ffcc00&icon_color=00ffff&text_color=daf7dc&bg_color=1e1e2f&hide=issues&count_private=true&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fjrmhri&show_icons=true&title_color=ffcc00&icon_color=00ffff&text_color=daf7dc&bg_color=1e1e2f&hide=issues&count_private=true&include_all_commits=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrmhri&layout=compact&text_color=daf7dc&bg_color=1e1e2f&hide=php" height="180"/>
 </p>
 
