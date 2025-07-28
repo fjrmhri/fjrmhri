@@ -1,29 +1,36 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=2000&center=true&vCenter=true&width=800&height=60&lines=Hello+World!+I'm+Fajar+Muhairi;Welcome+to+my+GitHub!+~+よろしくね!" />
+</h1>
 
-<p align="center">
-  <a href="https://www.instagram.com/fjr.mhri?igsh=MTl1NWI1Mnd2c3ZrYw==" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="30" /></a>&nbsp;
-  <a href="mailto:fajar.muhairi1@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>&nbsp;
-  <a href="http://discord.com/users/aruna8457" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="40" width="30" /></a>&nbsp;
-</p>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/3c/5f/95/3c5f956e18c72d1c983a41ae4234e943.gif" width="250" align="right" />
+  <img src="https://i.pinimg.com/originals/f3/27/93/f32793b0e4a6b93ea754cc6d4b9cf99e.gif" width="250" align="left" />
+</div>
 
-<br/>
+<br />
 
-![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWdza21ocDcwNTN0cWFpbmU0ZWV1OTF1cHA4ZDVyNjQzbTFhc2ZhbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6v8dobB4gdb8c/giphy.gif)
-
----
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-
-- 🎓 I'm a final year **Computer Science** student from Indonesia
-- 🛠️ Currently working on **text-based games**, **React apps**, and **cybersecurity labs**
-- 🌱 Always learning new things: **Next.js**, **IoT with ESP32**, and **Linux system tweaking**
-- 🧰 Tech Stack I Use: `.js`, `.py`, `.html`, `.css`, `.sql`, `.firebase`
-- 💬 Ask me anything about web dev, ethical hacking, or how to make terminal tampil ganteng 😎
-- ⚡ Fun fact: I prefer rice over pizza 🍚 > 🍕
+<div align="center">
+  <a href="https://www.instagram.com/fjr.mhri?igsh=MTl1NWI1Mnd2c3ZrYw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:fajar.muhairi1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.com/users/aruna8457"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
 
 ---
 
-### 🧑‍💻 Tools & Technologies:
+### 🧠 About Me
+
+> _"Watashi, kininarimasu!" – Chitanda Eru_
+
+- 🎓 Final year Computer Science student from Indonesia
+- 💻 Currently working on **React apps**, **text-based games**, and **cybersecurity projects**
+- 🌱 Learning more about **Next.js**, **ESP32 IoT**, and **Linux ricing**
+- ⚙️ I enjoy system tweaking, dotfiles, and terminal beautification
+- 🎨 I love anime, especially **Hyouka**, and pastel minimal UI/UX
+- 🍚 Fun fact: Rice >> Pizza (fight me 🍕)
+
+---
+
+### 🛠️ Tools & Technologies
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50" />
@@ -37,48 +44,44 @@
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/vitejs/vitejs-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" width="50" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats:
+### 📊 GitHub Stats
 
-![Fajar's github stats](https://github-readme-stats.vercel.app/api?username=fjrmhri&show_icons=true&title_color=ffcc00&icon_color=00ffff&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fjrmhri&show_icons=true&title_color=ffcc00&icon_color=00ffff&text_color=daf7dc&bg_color=1e1e2f&hide=issues&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrmhri&layout=compact&text_color=daf7dc&bg_color=1e1e2f&hide=php" height="180"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjrmhri&layout=compact&text_color=daf7dc&bg_color=151515&hide=php)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fjrmhri&theme=dark)](https://git.io/streak-stats)
-
----
-
-### 📝 My Latest Blog Posts:
-
-<!-- BLOG-POST-LIST:START -->
-
-- Belum ada blog... tapi coming soon!
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fjrmhri&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 💬 Random Tech Quote:
+### ✨ Tech Quote
 
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>"First, solve the problem. Then, write the code." – John Johnson</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
+> _"First, solve the problem. Then, write the code." – John Johnson_
 
 ---
 
-### 😂 Here's some humor for you:
+### 😄 Fun Corner
 
-<img src="https://readme-jokes.vercel.app/api" alt="Joke Card" />
-
----
-
-<br/>
-
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajV2MGVrbnZzd3AwMXEzZTR1bWV4Z2ZsczVqeDVsY2NnbnB0NnhvZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ehgM1JRwNXAtaYDRzi/giphy.gif)
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" />
+</p>
 
 ---
+
+### 🎴 Aesthetic Vibe
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="600"/>
+</p>
