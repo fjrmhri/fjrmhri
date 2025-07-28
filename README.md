@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=2000&center=true&vCenter=true&width=800&height=60&lines=Hello+World!+I'm+Fajar+Muhairi;Welcome+to+my+GitHub!+~+よろしくね!" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmJnZ3VydmtmeXQ3MTBodnYzdzZieWNpaWo1b21xdXhiZTMwbWp0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgMwRFVcbF0HCcU/giphy.gif />
 </h1>
 
 <div align="center">
