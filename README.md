@@ -41,7 +41,7 @@
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="50" />
-  <img src="https://upload.vectorlogo.zone/logos/kali/images/99996646-d340-4b8f-b820-e25525048e9c.svg" width="05" />
+  <img src="https://upload.vectorlogo.zone/logos/kali/images/99996646-d340-4b8f-b820-e25525048e9c.svg" width="50" />
 </p>
 
 ---
