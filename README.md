@@ -72,11 +72,3 @@
 </p>
 
 ---
-
-### 🎴 Anime
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW82eTAwZmdnNGtwcmkyamg2aGUzMXZoeG8yazhyZTAzbDg1YnNtdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PrurCwlB509Ne/giphy.gif" height="200""/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW82eTAwZmdnNGtwcmkyamg2aGUzMXZoeG8yazhyZTAzbDg1YnNtdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10I54Pr7nbGrAs/giphy.gif" height="200""/>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVwYThyOWFnYWFwY3JsYTB1cm42MnhyNGhtbzd1YWpnNml2bXRqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kTsbBDoLAaQM/giphy.gif" height="200""/>
-</p>
