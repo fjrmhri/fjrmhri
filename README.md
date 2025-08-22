@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://pin.it/EJqm37YnN" width="100%" />
+</p>
+
 ### Tools & Technologies
 
 <p align="center">
@@ -35,4 +39,3 @@
 > _"First, solve the problem. Then, write the code." – John Johnson_
 
 ---
-
