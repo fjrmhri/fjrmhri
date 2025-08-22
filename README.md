@@ -1,32 +1,3 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmJnZ3VydmtmeXQ3MTBodnYzdzZieWNpaWo1b21xdXhiZTMwbWp0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgMwRFVcbF0HCcU/giphy.gif" width="250" />
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW82eTAwZmdnNGtwcmkyamg2aGUzMXZoeG8yazhyZTAzbDg1YnNtdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgkDZjbfe06GN8Y/giphy.gif" width="250" />
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW82eTAwZmdnNGtwcmkyamg2aGUzMXZoeG8yazhyZTAzbDg1YnNtdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqqXyBM6dAqBO/giphy.gif" width="250" />
-</h1>
-
-<br />
-
-<div align="center">
-  <a href="https://www.instagram.com/fjr.mhri?igsh=MTl1NWI1Mnd2c3ZrYw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:fajar.muhairi1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.com/users/aruna8457"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</div>
-
----
-
-### About Me
-
-> _"Watashi, kininarimasu!" – Chitanda Eru_
-
-- 🎓 Final year Computer Science student from Indonesia
-- 💻 Currently working on **React apps**, **text-based games**, and **cybersecurity projects**
-- 🌱 Learning more about **Next.js**, **ESP32 IoT**, and **Linux ricing**
-- ⚙️ I enjoy system tweaking, dotfiles, and terminal beautification
-- 🎨 I love anime, especially **Hyouka**, and pastel minimal UI/UX
-- 🍚 Fun fact: Rice >> Pizza (fight me 🍕)
-
----
-
 ### Tools & Technologies
 
 <p align="center">
@@ -64,3 +35,4 @@
 > _"First, solve the problem. Then, write the code." – John Johnson_
 
 ---
+
