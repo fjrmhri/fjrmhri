@@ -1,25 +1,6 @@
 <p align="center">
-  <img src="https://pin.it/EJqm37YnN" width="100%" />
+  <img src="./images/banner.jpg" width="100%" />
 </p>
-
-### Tools & Technologies
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="50" />
-  <img src="https://upload.vectorlogo.zone/logos/kali/images/99996646-d340-4b8f-b820-e25525048e9c.svg" width="50" />
-</p>
-
----
 
 ### GitHub Stats
 
