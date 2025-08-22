@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fjrmhri&show_icons=true&title_color=ffcc00&icon_color=00ffff&text_color=daf7dc&bg_color=1e1e2f&hide=issues&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrmhri&layout=compact&text_color=daf7dc&bg_color=1e1e2f&hide=php" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrmhri&layout=compact&text_color=daf7dc&bg_color=1e1e2f&hide=php" height="300"/>
 </p>
 
 <p align="center">
@@ -20,5 +20,6 @@
 > _"First, solve the problem. Then, write the code." – John Johnson_
 
 ---
+
 
 
