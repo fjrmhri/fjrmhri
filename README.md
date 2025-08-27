@@ -5,7 +5,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrmhri&layout=compact&text_color=daf7dc&bg_color=1e1e2f&hide=php" width="48%" style="border: 2px solid #ffffff; border-radius: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrmhri&layout=compact&text_color=daf7dc&bg_color=1e1e2f&hide=php" width="41%" style="border: 2px solid #ffffff; border-radius: 10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fjrmhri&theme=tokyonight&hide_border=true" width="48%" style="border: 2px solid #ffffff; border-radius: 10px;" />
 </p>
 
