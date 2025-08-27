@@ -9,9 +9,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrmhri&layout=compact&text_color=daf7dc&bg_color=1e1e2f&hide=php" width="37.5%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fjrmhri&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fjrmhri&text_color=daf7dc&bg_color=1e1e2f" width="48%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fjrmhri&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fjrmhri&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fjrmhri&theme=github_dark" width="48%" />
 </p>
 
 ---
@@ -21,13 +26,3 @@
 > _"First, solve the problem. Then, write the code." – John Johnson_
 
 ---
-
-
-
-
-
-
-
-
-
-
