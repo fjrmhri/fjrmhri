@@ -5,14 +5,12 @@
 ### GitHub Stats
 
 <p align="center">
-  <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrmhri&layout=compact&text_color=daf7dc&bg_color=1e1e2f&hide=php" width="40%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fjrmhri&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrmhri&layout=compact&text_color=daf7dc&bg_color=1e1e2f&hide=php" width="48%" style="border: 2px solid #ffffff; border-radius: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fjrmhri&theme=tokyonight&hide_border=true" width="48%" style="border: 2px solid #ffffff; border-radius: 10px;" />
 </p>
 
 <p align="center">
-  <!-- GitHub Profile Summary Details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fjrmhri&theme=github_dark" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fjrmhri&theme=github_dark" width="60%" style="border: 2px solid #ffffff; border-radius: 10px;" />
 </p>
 
 ---
@@ -22,9 +20,3 @@
 > _"First, solve the problem. Then, write the code." – John Johnson_
 
 ---
-
-
-
-
-
-
