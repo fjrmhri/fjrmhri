@@ -24,8 +24,7 @@
   <!-- GitHub Profile Summary Details -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fjrmhri&theme=github_dark" width="48%" />
   
-  <!-- GitHub Repos Per Language -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fjrmhri&theme=github_dark" width="48%" />
+  
 </p>
 
 ---
@@ -35,3 +34,4 @@
 > _"First, solve the problem. Then, write the code." – John Johnson_
 
 ---
+
