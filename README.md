@@ -6,12 +6,12 @@
 
 <div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=fjrmhri&theme=graywhite&show_icons=true&hide_border=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fjrmhri&theme=graywhite&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fjrmhri&theme=graywhite&show_icons=true&hide_border=true&count_private=true&width="50%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fjrmhri&theme=graywhite&hide_border=true&width="50%" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrmhri&theme=graywhite&show_icons=true&hide_border=true&layout=compact" />
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fjrmhri&theme=graywhite&width="50%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrmhri&theme=graywhite&show_icons=true&hide_border=true&layout=compact&width="70%" />
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fjrmhri&theme=graywhite&width="30%" />
   </div>
 </div>
 
@@ -22,5 +22,6 @@
 > _"First, solve the problem. Then, write the code." – John Johnson_
 
 ---
+
 
 
