@@ -11,7 +11,7 @@
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrmhri&theme=graywhite&show_icons=true&hide_border=true&layout=compact" />
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fjrmhri&theme=graywhite width="50%" />
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fjrmhri&theme=graywhite&width="50%" />
   </div>
 </div>
 
@@ -22,4 +22,5 @@
 > _"First, solve the problem. Then, write the code." – John Johnson_
 
 ---
+
 
