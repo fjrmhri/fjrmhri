@@ -4,14 +4,16 @@
 
 ### GitHub Stats
 
-![fjrmhri's Stats](https://github-readme-stats.vercel.app/api?username=fjrmhri&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
-![fjrmhri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fjrmhri&theme=graywhite&hide_border=true)
-![fjrmhri's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fjrmhri&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
-
-
-<p align="center">
-  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fjrmhri&theme=github_dark](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fjrmhri&theme=graywhite)" width="60%" style="border: 2px solid #ffffff; border-radius: 10px;" />
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; max-width: 1200px; margin: 0 auto;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=fjrmhri&theme=graywhite&show_icons=true&hide_border=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fjrmhri&theme=graywhite&hide_border=true" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrmhri&theme=graywhite&show_icons=true&hide_border=true&layout=compact" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fjrmhri&theme=graywhite" />
+  </div>
+</div>
 
 ---
 
@@ -20,6 +22,3 @@
 > _"First, solve the problem. Then, write the code." – John Johnson_
 
 ---
-
-
-
