@@ -1,8 +1,5 @@
 <div align="center" style="background:#000; padding: 32px; border-radius: 18px; color:#fff; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <img src="./images/banner.jpg" width="100%" style="border-radius: 12px; filter: grayscale(100%); opacity: 0.95;" alt="Black and white banner" />
-  <p style="max-width: 640px; margin: 0 auto; line-height: 1.6; color:#d1d1d1;">
-    A clean, black-and-white dashboard focusing purely on GitHub activity insights.
-  </p>
 </div>
 
 ---
