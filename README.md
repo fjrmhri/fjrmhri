@@ -8,13 +8,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background:#111; padding: 28px; border-radius: 18px;">
   <div style="flex: 1; min-width: 300px; max-width: 48%; background:#000; padding: 16px; border-radius: 14px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=fjrmhri&theme=graywhite&show_icons=true&hide_border=true&count_private=true" width="100%" alt="GitHub stats" />
-  </div>
-  <div style="flex: 1; min-width: 300px; max-width: 48%; background:#000; padding: 16px; border-radius: 14px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=fjrmhri&theme=graywhite&hide_border=true" width="100%" alt="GitHub streak" />
-  </div>
-  <div style="flex: 1; min-width: 300px; max-width: 48%; background:#000; padding: 16px; border-radius: 14px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrmhri&theme=graywhite&show_icons=true&hide_border=true&layout=compact" width="100%" alt="Top languages" />
   </div>
   <div style="flex: 1; min-width: 300px; max-width: 48%; background:#000; padding: 16px; border-radius: 14px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fjrmhri&theme=graywhite" width="100%" alt="Profile details" />
